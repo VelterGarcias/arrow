@@ -27,4 +27,5 @@ play();
     },10);
 }
 
-addClassNameListener(".start-button")
+addClassNameListener(".start-button");
+console.log('%c script ATIVO! ', 'background: #222; color: #bada55; font-size: 40px;');
