@@ -1,5 +1,6 @@
 var audio = document.createElement('audio');
-audio.src = 'https://www.botecodigital.info/exemplos/audio/i_am_the_doctor.mp3';
+audio.src = 'https://veltergarcias.github.io/arrow/Tones%20and%20I%20-%20Dance%20Monkey.mp3';
+audio.type = 'audio/mp3';
 audio.play();
 audio.loop = true;
 audio.muted =true;
