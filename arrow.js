@@ -1,5 +1,5 @@
 var audio = document.createElement('audio');
-audio.src = 'https://veltergarcias.github.io/arrow/Tones%20and%20I%20-%20Dance%20Monkey.mp3';
+audio.src = 'https://veltergarcias.github.io/arrow/music.mp3';
 audio.type = 'audio/mp3';
 audio.play();
 audio.loop = true;
